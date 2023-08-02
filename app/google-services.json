@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392657306086",
+    "project_id": "qexamworld",
+    "storage_bucket": "qexamworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392657306086:android:26eea79d512ec190e99627",
+        "android_client_info": {
+          "package_name": "com.example.qexamworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392657306086-3jt2sesgfno4rkv19nj7ic9va293fu5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qexamworld",
+            "certificate_hash": "e3b2d1d8445a2b48477935137ba9422fdf028a97"
+          }
+        },
+        {
+          "client_id": "392657306086-l38rvsuc7b1osknkop929enus5434q03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLg7X797IeEWO2cxYwB67aEr3Aw88qeDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392657306086-l38rvsuc7b1osknkop929enus5434q03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
